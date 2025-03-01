@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#timer {
+    font-size: 50px;
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    margin: 5px;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+
+.list {
+    font-size: 20px;
+}
